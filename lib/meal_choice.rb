@@ -1,5 +1,5 @@
 # Your code here
-define Meal_choice(veg1, veg2, )
+define Meal_choice(veg1, veg2, protein=meat )
 veg1= green beans
 veg2= carrots
 protein= cashews
