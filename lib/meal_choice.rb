@@ -1,4 +1,5 @@
 # Your code here
+define Meal_choice
 veg1= green beans
 veg2= carrots
 protein= cashews
